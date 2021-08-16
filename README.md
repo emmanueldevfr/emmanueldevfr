@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.emmanuelmilliot.space/](https://www.emmanuelmilliot.space/)
 
-- 📫 How to reach me **emmanuelmilliot.pro@gmail.com**
+- 📫 How to reach me **emmanuelmilliot.pro@gmail.com** or **emmanuel.milliot@vegadigital.fr**
 
 - 📄 Know about my experiences [I've been developing NodeJS applications in JavaScript for a few years now.](I've been developing NodeJS applications in JavaScript for a few years now.)
 
